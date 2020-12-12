@@ -1,6 +1,6 @@
 [![CI Status](https://travis-ci.org/easytarget/esp32-cjmcu-531-demo.svg?branch=master)](https://travis-ci.org/github/easytarget/esp32-cjmcu-531-demo) `- Master branch status`
 
-# CJMCU-531 and ESP32 Demo using a VL53L1X library and Ajax to display on a self-hosted site.
+# VL53L1X-SATEL and ESP32 Demo using a VL53L1X library and Ajax to display on a self-hosted site.
 ## A crude, slow(ish), low fidelity Lidar system
  
 Designed (initially) for the commonly available VL53L1X (4 meter) IR Time Of Flight sensor from ST Microelectronics:
